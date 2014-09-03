@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="377" lt="357" ts="1409337887146" s="true" lb="Log in page" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="39035"/>
+<httpSample t="147" lt="147" ts="1409337887543" s="true" lb=":///share/res/components/preview/WebPreviewerHTML_5d2468e9aa98a3fb37a6837bb5ff87fb.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="550"/>
+<httpSample t="17" lt="17" ts="1409337887691" s="true" lb=":///share/res/components/form/form_802662823c56b9b60b40dc24df66.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4535"/>
+<httpSample t="12" lt="12" ts="1409337887709" s="true" lb=":///share/res/modules/documentlibrary/permissions_8cc3abde1fc7ee341e28ec6a5559c49f.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1013"/>
+<httpSample t="13" lt="13" ts="1409337887723" s="true" lb=":///share/res/components/document-details/document-metadata_127f8b736322db6589a3325ad591f4f.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1497"/>
+<httpSample t="14" lt="14" ts="1409337887738" s="true" lb=":///share/res/components/preview/WebPreviewer_4d4f4c87f8b626e8c6bc171de221e03f.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1226"/>
+<httpSample t="15" lt="15" ts="1409337887753" s="true" lb=":///share/res/components/documentlibrary/tree_a93fd62b31ad8ceaac5943cc2911d14.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3471"/>
+<httpSample t="13" lt="13" ts="1409337887770" s="true" lb=":///share/res/components/document-details/document-metadata_5ce4982b74a88d311fe593a01c9dab0.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="841"/>
+<httpSample t="27" lt="18" ts="1409337887785" s="true" lb=":///share/res/components/form/date_b1b6c88ce3a2a5a93d2907df29b60a.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="24530"/>
+<httpSample t="22" lt="15" ts="1409337887813" s="true" lb=":///share/res/components/dashlets/activities_e32bdec85b42376c12e2590ebf71e1e.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="24722"/>
+<httpSample t="13" lt="13" ts="1409337887836" s="true" lb=":///share/res/modules/delete-site_d41d8cd98f0b24e980998ecf8427e.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="394"/>
+<httpSample t="14" lt="14" ts="1409337887850" s="true" lb=":///share/res/modules/document-details/revert-version_ad851537de29d31e19daf9a7485a1451.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="696"/>
+<httpSample t="16" lt="16" ts="1409337887867" s="true" lb=":///share/res/modules/documentlibrary/doclib-actions_e656d66243ea3de06c2d454448524ca0.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3523"/>
+<httpSample t="42" lt="16" ts="1409337887885" s="true" lb=":///share/res/components/documentlibrary/documentlist_96c8b4d95f8428f5ce0d0bcb04dead8.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="60890"/>
+<httpSample t="14" lt="14" ts="1409337887929" s="true" lb=":///share/res/modules/header/sites_35ab8bf8984c95435fc82441f975b05d.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3634"/>
+<httpSample t="12" lt="12" ts="1409337887945" s="true" lb=":///share/res/components/document-details/document-links_a0c62eb1bbfa7cfc3271c4433fab5c6.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="647"/>
+<httpSample t="12" lt="12" ts="1409337887959" s="true" lb=":///share/res/components/preview/web-preview_d512a1d6a6fcb6ae15cd6514a25eda4.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="685"/>
+<httpSample t="16" lt="16" ts="1409337887973" s="true" lb=":///share/res/components/form/date-picker_223dabd6e7fe6d52cce2ab4fbe584d3a.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5204"/>
+<httpSample t="31" lt="19" ts="1409337887990" s="true" lb=":///share/res/components/documentlibrary/toolbar_7b7463f0cc1f64d1b5d961a7d2aee3d2.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26341"/>
+<httpSample t="11" lt="11" ts="1409337888023" s="true" lb=":///share/res/components/dashlets/my-sites_b13dddad82b84aba2abbe619244704a.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2454"/>
+<httpSample t="16" lt="16" ts="1409337888036" s="true" lb=":///share/res/components/header/header_4156a33a62d5bc145d28e49a8b963.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5521"/>
+<httpSample t="13" lt="13" ts="1409337888053" s="true" lb=":///share/res/components/document-details/document-workflows_94bac4112eeeac3b9bf74158342f41d9.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1437"/>
+<httpSample t="18" lt="17" ts="1409337888068" s="true" lb=":///share/res/modules/social-publish_4b917c6554bb9534a4abf3f354fda.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="11063"/>
+<httpSample t="18" lt="18" ts="1409337888088" s="true" lb=":///share/res/modules/documentlibrary/aspects_638fe9c1895ff338abe8d0832e2db453.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="7689"/>
+<httpSample t="21" lt="21" ts="1409337888109" s="true" lb=":///share/res/modules/document-details/historic-properties-viewer_8f31725c3b7718eb19626f013be95d6.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4769"/>
+<httpSample t="19" lt="19" ts="1409337888134" s="true" lb=":///share/res/components/document-details/document-publishing_583aa5861b6903ac41d4c413415771.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4771"/>
+<httpSample t="16" lt="16" ts="1409337888157" s="true" lb=":///share/res/components/form/workflow/activiti-transitions_d140513a3f5178a9fe02aabad62ae3a.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2835"/>
+<httpSample t="14" lt="14" ts="1409337888175" s="true" lb=":///share/res/components/form/jmx/operations_7cbe27c4e529dd693674fe2a8ff1bd.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2371"/>
+<httpSample t="20" lt="18" ts="1409337888191" s="true" lb=":///share/res/components/documentlibrary/tree_a3fcccc869138ab8dd994014d3ec3.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="11213"/>
+<httpSample t="25" lt="21" ts="1409337888213" s="true" lb=":///share/res/components/object-finder/object-finder_16a164bcdf62617e4adb964126641a1a.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="19267"/>
+<httpSample t="20" lt="18" ts="1409337888240" s="true" lb=":///share/res/components/comments/comments-list_385313d3422dddaef96bcf93b91b53f.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="10929"/>
+<httpSample t="13" lt="13" ts="1409337888262" s="true" lb=":///share/res/components/dashlets/my-documents_5f8b0bf3c12f231e64d16cde05dc3e8.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2335"/>
+<httpSample t="18" lt="18" ts="1409337888277" s="true" lb=":///share/res/components/preview/web-preview_eea129295da2ef61aaab6f2867b5196.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5474"/>
+<httpSample t="14" lt="14" ts="1409337888297" s="true" lb=":///share/res/components/dashlets/dynamic-welcome_f068ce8766baab5b5a4be57f888b48.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3336"/>
+<httpSample t="17" lt="17" ts="1409337888313" s="true" lb=":///share/res/modules/documentlibrary/global-folder_bb8946c8f8acab163a8dcd56e7ae338.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5693"/>
+<httpSample t="14" lt="14" ts="1409337888332" s="true" lb=":///share/res/modules/header/sites_9b7d43311e2528eb36e6dfbe2e77b6.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5821"/>
+<httpSample t="15" lt="15" ts="1409337888347" s="true" lb=":///share/res/components/title/collaboration-title_c7aac761bb834260fc5be4d33013.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5507"/>
+<httpSample t="19" lt="17" ts="1409337888364" s="true" lb=":///share/res/modules/about-share_96f4d8b6e9b9e6ea3b563a1a79af4.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="14856"/>
+<httpSample t="15" lt="15" ts="1409337888385" s="true" lb=":///share/res/components/console/license_43c2da81285ec7557c469285af6c590.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2582"/>
+<httpSample t="14" lt="14" ts="1409337888401" s="true" lb=":///share/res/components/dashlets/my-documents_f6b497fa2c7d55f878d4edfc302d282c.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2415"/>
+<httpSample t="14" lt="14" ts="1409337888417" s="true" lb=":///share/res/components/dashlets/my-profile_c43fb2859f25e21cb95f3d4e5c1d924.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1087"/>
+<httpSample t="16" lt="16" ts="1409337888434" s="true" lb=":///share/res/modules/simple-dialog_a9b7dcc689e19e50aaef92f6ff581e8.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="6595"/>
+<httpSample t="14" lt="14" ts="1409337888454" s="true" lb=":///share/res/modules/edit-site_c945f9973974c3a24735c4bf68f7ad4.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="536"/>
+<httpSample t="14" lt="14" ts="1409337888471" s="true" lb=":///share/res/components/footer/footer_b9716ecd1dea988675b3439cd788fb33.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1791"/>
+<httpSample t="17" lt="17" ts="1409337888488" s="true" lb=":///share/res/modules/document-details/revert-version_1ad8b4a6d3993fa3371ac86c3a9bc6e.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4420"/>
+<httpSample t="29" lt="17" ts="1409337888508" s="true" lb=":///share/res/components/documentlibrary/actions_3ef55c1b9d80135ad2da44f72f1db8.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26027"/>
+<httpSample t="24" lt="21" ts="1409337888539" s="true" lb=":///share/res/components/node-details/node-header_ff45c69ed164c178d0c4b3ac6cd5db1d.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="14182"/>
+<httpSample t="24" lt="18" ts="1409337888565" s="true" lb=":///share/res/modules/documentlibrary/global-folder_8ccbe526695c93d14224a5c4f65385ea.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="16277"/>
+<httpSample t="16" lt="16" ts="1409337888591" s="true" lb=":///share/res/components/comments/comments-list_e02493173d1c7884fccead368b30b333.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3236"/>
+<httpSample t="18" lt="18" ts="1409337888609" s="true" lb=":///share/res/components/upload/html-upload_23489566f6296c1444371d57322ff54b.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="7918"/>
+<httpSample t="17" lt="17" ts="1409337888629" s="true" lb=":///share/res/components/form/content_9080c79dc38a9d8a6ce5405a1fc53f.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4927"/>
+<httpSample t="14" lt="14" ts="1409337888650" s="true" lb=":///share/res/components/document-details/document-actions_9e8dd2987a1cba69af7eef3dee9d58.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="862"/>
+<httpSample t="14" lt="14" ts="1409337888667" s="true" lb=":///share/res/components/document-details/document-permissions_12ed6659df7cb35695066d8636e49ee.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="909"/>
+<httpSample t="34" lt="18" ts="1409337888684" s="true" lb=":///share/res/components/object-finder/object-finder_45e1877cecb4f5c86b5bf111591d6.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="36998"/>
+<httpSample t="21" lt="21" ts="1409337888719" s="true" lb=":///share/res/modules/document-details/historic-properties-viewer_31cc2bdfcb65b4fcc716803b4320c0b1.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="6683"/>
+<httpSample t="17" lt="17" ts="1409337888741" s="true" lb=":///share/res/components/upload/dnd-upload_f3f4adce2d3414308fcd74abb763fa8.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="8081"/>
+<httpSample t="14" lt="14" ts="1409337888759" s="true" lb=":///share/res/components/people-finder/people-finder_46dc104b64d780d5b79fc1ac86098c3.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3057"/>
+<httpSample t="16" lt="16" ts="1409337888774" s="true" lb=":///share/res/components/document-details/document-versions_89e3b3d1bcbbb8156e31ffc6f5af74.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5456"/>
+<httpSample t="13" lt="13" ts="1409337888791" s="true" lb=":///share/res/components/upload/html-upload_a136f9b1eebc7e18b174b59af439028.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="709"/>
+<httpSample t="14" lt="14" ts="1409337888805" s="true" lb=":///share/res/modules/delete-site_5be63da4b147637953acc81371068e5.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3425"/>
+<httpSample t="12" lt="12" ts="1409337888821" s="true" lb=":///share/res/components/document-details/document-workflows_82ba1fb1eaacca65905d4820b67f3fd8.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="869"/>
+<httpSample t="13" lt="13" ts="1409337888835" s="true" lb=":///share/res/modules/create-site_6e58c9b9eec292f6a4848bea9fe483.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="566"/>
+<httpSample t="43" lt="18" ts="1409337888849" s="true" lb=":///share/res/components/documentlibrary/documentlist_9f94cf7011e3657c2acf372e016d0e1.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="63613"/>
+<httpSample t="14" lt="14" ts="1409337888893" s="true" lb=":///share/res/modules/about-share_469c75223b37f7a4263a25a921b929.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1799"/>
+<httpSample t="12" lt="12" ts="1409337888908" s="true" lb=":///share/res/components/document-details/document-tags_a1f64fc486765264e1bdc7fb12110.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1007"/>
+<httpSample t="16" lt="16" ts="1409337888922" s="true" lb=":///share/res/modules/documentlibrary/copy-move-to_749dd3876d6e325d3510df2157e99.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4358"/>
+<httpSample t="25" lt="16" ts="1409337888939" s="true" lb=":///share/res/components/documentlibrary/toolbar_12ec1a55a9ec9f51fa9fb325dbfb90.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26334"/>
+<httpSample t="19" lt="18" ts="1409337888965" s="true" lb=":///share/res/components/dashlets/my-sites_e3d15ac1b74ab4465f7df4013f2d35c.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="9968"/>
+<httpSample t="16" lt="16" ts="1409337888986" s="true" lb=":///share/res/modules/documentlibrary/aspects_6cfb7e163c9311ab0b57ec649dfa30.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2225"/>
+<httpSample t="17" lt="17" ts="1409337889004" s="true" lb=":///share/res/components/upload/file-upload_943f60ac9befabf59efbbf924a771a23.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2914"/>
+<httpSample t="16" lt="16" ts="1409337889023" s="true" lb=":///share/res/yui/calendar/assets/calendar_aa6d35544845f9e37c2e63f30c3fc.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="6980"/>
+<httpSample t="17" lt="16" ts="1409337889041" s="true" lb=":///share/res/components/form/period_6687cd14ce6f0519843823e177d338.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3118"/>
+<httpSample t="16" lt="15" ts="1409337889061" s="true" lb=":///share/res/modules/social-publish_f84d41a56042f67c9db34c1cc06fa1b9.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4037"/>
+<httpSample t="12" lt="12" ts="1409337889079" s="true" lb=":///share/res/components/documentlibrary/actions_6f61611315e24969891dd470474520.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1012"/>
+<httpSample t="14" lt="14" ts="1409337889093" s="true" lb=":///share/res/components/form/rich-text_d2b0517a7c545e58667cdc52e918443e.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1748"/>
+<httpSample t="16" lt="16" ts="1409337889109" s="true" lb=":///share/res/modules/create-site_54d96b336a208bbc636a3a8b67d3041.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="6288"/>
+<httpSample t="12" lt="12" ts="1409337889126" s="true" lb=":///share/res/components/dashlets/dynamic-welcome_d8aeeb28acebc1c7eefe1640b22b625.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2547"/>
+<httpSample t="17" lt="17" ts="1409337889140" s="true" lb=":///share/res/components/header/header_7ca9f86d97f77dfe86c4285de1bd95.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5263"/>
+<httpSample t="22" lt="18" ts="1409337889158" s="true" lb=":///share/res/components/people-finder/people-finder_b4b4f0ae13be727ab01b876cd14587b.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="12326"/>
+<httpSample t="12" lt="12" ts="1409337889181" s="true" lb=":///share/res/components/dashlets/colleagues_174d605679d1aac663b480f08b5d6a9a.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="696"/>
+<httpSample t="15" lt="15" ts="1409337889194" s="true" lb=":///share/res/modules/edit-site_9461e084143ef8d1a9236f7a76c2374.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5173"/>
+<httpSample t="12" lt="12" ts="1409337889210" s="true" lb=":///share/res/components/document-details/document-permissions_f07e3f9833822ac281c5d751380a6d1.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1335"/>
+<httpSample t="17" lt="17" ts="1409337889223" s="true" lb=":///share/res/components/dashlets/docsummary_d3309291daa8273a8417ebdb5ce2e6c7.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2623"/>
+<httpSample t="14" lt="14" ts="1409337889241" s="true" lb=":///share/res/components/tag-filter/tag-filter_329de4a1913c9e28195a879ec7511d6.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2453"/>
+<httpSample t="13" lt="13" ts="1409337889256" s="true" lb=":///share/res/components/dashlets/docsummary_5570ef41fada7a5fa858c69df553c3cc.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2103"/>
+<httpSample t="14" lt="14" ts="1409337889270" s="true" lb=":///share/res/components/node-details/node-header_bcf2e374ea6ba87ae8d21afc4d63fa0.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3450"/>
+<httpSample t="16" lt="16" ts="1409337889284" s="true" lb=":///share/res/modules/documentlibrary/permissions_9ad76c3487b3b6e8e8a030336db4e925.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="6093"/>
+<httpSample t="24" lt="16" ts="1409337889301" s="true" lb=":///share/res/components/upload/dnd-upload_59f8323c54d581115e1b1f40356a3bd9.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="24280"/>
+<httpSample t="13" lt="13" ts="1409337889326" s="true" lb=":///share/res/components/document-details/document-links_70c0d91fc20f485b940b1717f9092b0.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1157"/>
+<httpSample t="17" lt="17" ts="1409337889340" s="true" lb=":///share/res/components/preview/WebPreviewer_eaf2df9eb1efaab29cb1db02d13cb8b.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5306"/>
+<httpSample t="12" lt="12" ts="1409337889361" s="true" lb=":///share/res/components/document-details/document-details-panel_38594b71e218ffe4e4d8dd96c2c26f.css" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="684"/>
+<httpSample t="13" lt="13" ts="1409337889374" s="true" lb=":///share/res/components/form/workflow/transitions_e18bffeb68c61c1ebee76beb5d12323f.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2408"/>
+<httpSample t="16" lt="16" ts="1409337889388" s="true" lb=":///share/res/components/dashlets/activities_51a4473825d0d5397c73e7214fb65442.js" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5663"/>
+<httpSample t="152" lt="152" ts="1409337889406" s="true" lb="Do login" rc="302" rm="Found" tn="Thread Group 1-1" dt="text" by="671"/>
+<httpSample t="165" lt="165" ts="1409337889563" s="true" lb="Users sites" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2065"/>
+<httpSample t="109" lt="109" ts="1409337889730" s="true" lb="Task-instances" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="727"/>
+<httpSample t="1117" lt="1117" ts="1409337889841" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="909"/>
+<httpSample t="49" lt="49" ts="1409337890960" s="true" lb="preferences" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="656"/>
+<httpSample t="499" lt="439" ts="1409337891012" s="true" lb="users file" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="102972"/>
+<httpSample t="1152" lt="1087" ts="1409337891514" s="true" lb="files info" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="117379"/>
+<httpSample t="82" lt="82" ts="1409337892666" s="true" lb="Tags" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="621"/>
+<httpSample t="397" lt="397" ts="1409337892750" s="true" lb="DocumentLibrary" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1290"/>
+<httpSample t="64" lt="0" ts="1409337893150" s="false" lb="[UPLOAD] {file-001.docx} TO SITE" rc="Non HTTP response code: java.io.FileNotFoundException" rm="Non HTTP response message: C:\Users\samo\Desktop\10_mb_file.docx (The system cannot find the file specified)" tn="Thread Group 1-1" dt="text" by="2387"/>
+<httpSample t="130" lt="130" ts="1409337893224" s="true" lb="Activity" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="547"/>
+<httpSample t="451" lt="374" ts="1409337893357" s="true" lb="get users files info" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="117380"/>
+<httpSample t="47" lt="47" ts="1409337893811" s="true" lb="preferences" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="604"/>
+<httpSample t="271" lt="207" ts="1409337893860" s="true" lb="filter" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="102972"/>
+<httpSample t="68" lt="68" ts="1409337894133" s="true" lb="Tags" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="621"/>
+<httpSample t="2259" lt="2156" ts="1409337894203" s="true" lb="DocumentLibrary" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="148043"/>
+<httpSample t="308" lt="241" ts="1409337896464" s="true" lb="users files" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="102971"/>
+<httpSample t="1604" lt="366" ts="1409337896774" s="true" lb="files info" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="117379"/>
+<httpSample t="245" lt="196" ts="1409337898381" s="true" lb="get users files " rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="102971"/>
+<httpSample t="469" lt="291" ts="1409337898627" s="true" lb="READ" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="229435"/>
+<httpSample t="40" lt="37" ts="1409337899097" s="false" lb="Form" rc="500" rm="Internal Server Error" tn="Thread Group 1-1" dt="text" by="10632"/>
+<httpSample t="59" lt="59" ts="1409337899138" s="true" lb="version of the document" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="530"/>
+<httpSample t="0" lt="0" ts="1409337899199" s="false" lb="Comments buttons" rc="Non HTTP response code: java.net.URISyntaxException" rm="Non HTTP response message: Illegal character in path at index 83: https://myshare.kfshrc.edu.sa/share/service/components/node/workspace/SpacesStore/${uuid}/comments?reverse=true&amp;startIndex=0&amp;pageSize=10" tn="Thread Group 1-1" dt="text" by="1051"/>
+<httpSample t="89" lt="89" ts="1409337899200" s="false" lb="DELETE" rc="400" rm="Bad Request" tn="Thread Group 1-1" dt="text" by="893"/>
+<httpSample t="34" lt="34" ts="1409337899291" s="true" lb="delete activity" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="546"/>
+<httpSample t="397" lt="381" ts="1409337899327" s="true" lb="Dashboard" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="33819"/>
+<httpSample t="81" lt="81" ts="1409337899726" s="true" lb="Users sites" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="2065"/>
+<httpSample t="107" lt="107" ts="1409337899810" s="true" lb="task-instances" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="727"/>
+<httpSample t="98" lt="98" ts="1409337899920" s="true" lb="home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="909"/>
+<httpSample t="45" lt="45" ts="1409337900021" s="true" lb="Preferences" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="656"/>
+
+</testResults>
